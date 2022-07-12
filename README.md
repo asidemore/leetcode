@@ -1,2 +1,4 @@
 # leetcode
-## 算法
+## algorithm
+## use:c++
+- [] 
